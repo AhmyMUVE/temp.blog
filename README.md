@@ -8,10 +8,15 @@
 다만 _Response status code does not indicate success: 503 (Service Unavailable)._ 이라는 알 수 없는 오류로, 서버에 올리는 데 애를 좀 먹었다.
 서버문제라나 뭐라나. 여튼 성공.
 
+
+
 ### 메모
 일단 여기 다 박아두겠다. 나중에 html 연구해서 조금씩 다듬어야지 생각 중이다.
 - 개인 웹사이트 아이디어가 하나 떠올랐다. 내가 종이든 뭐든 항상 답답했던게, 하루에 다리어리에 뭘 써도, 어떤 건 날짜 무관하게 주제랑 묶고싶고(개인적인 탐구들), 어떤 건 날짜 흐름따라서(일기)를 쓰고싶다.\
   보통 날짜가 메인이고 태그같은 기능으로 주제를 묶을 수 있긴 한데, 불편하기도 하고 답답하기도 하다. 둘다 메인이면 좋겠다. 사실 주제별 정렬같은 거 하나 만들어주면 깔끔하다. 나중에 html 연구해서 해보자.
+- 커밋 합치는 거 알아보자
+
+
 
 ## 2023.09.05. TUE.
 일단 군 내에서 있는 일들은 웬만해서 적지 않을 것이다.
@@ -19,10 +24,20 @@
 ### 회계사 vs 세무사
 이 파트는 계속 업데이트 할 생각이다.
 
+
+
 #### 회계사
 > 개업은 아무나 하나
 > https://brunch.co.kr/@e650db5be948472/40
 
+
 > 공인회계사 개업은 어떨까
 > https://verystory12.tistory.com/1221
 
+## 임시 저장
+https://gall.dcinside.com/mgallery/board/view/?id=cta&no=4235
+https://gall.dcinside.com/board/view/?id=exam_gosi&no=2026690
+https://gall.dcinside.com/mgallery/board/view/?id=cta&no=6329
+https://gall.dcinside.com/mgallery/board/view/?id=cta&no=2400
+https://gall.dcinside.com/mgallery/board/view/?id=ansrhkaks&no=1453984
+https://gall.dcinside.com/board/view/?id=exam_gosi&no=1895356
